@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[unPRO]]></title>
-  <link href="http://TronPaul.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ramblings | unPRO]]></title>
+  <link href="http://TronPaul.github.io/blog/categories/ramblings/atom.xml" rel="self"/>
   <link href="http://TronPaul.github.io/"/>
   <updated>2013-04-29T04:44:40+00:00</updated>
   <id>http://TronPaul.github.io/</id>
@@ -18,18 +18,18 @@
     <link href="http://TronPaul.github.io/blog/2013/04/29/did-i-do-it-right/"/>
     <updated>2013-04-29T04:14:00+00:00</updated>
     <id>http://TronPaul.github.io/blog/2013/04/29/did-i-do-it-right</id>
-    <content type="html"><![CDATA[<p>Saw octopress mentioned on HN, don&#8217;t really like tumblr so thought I&#8217;d try it.
-Seems prety neat. Don&#8217;t expect github pages to go down and it&#8217;s just a git repo
-so less effort to maintain it etc. Let&#8217;s give this blagging stuff a shot.</p>
+    <content type="html"><![CDATA[<p>Saw octopress mentioned on HN, don't really like tumblr so thought I'd try it.
+Seems prety neat. Don't expect github pages to go down and it's just a git repo
+so less effort to maintain it etc. Let's give this blagging stuff a shot.</p>
 
 <!-- more -->
 
 
-<p>So&#8230; me. I play TF2 competitively, listen to tons of music, love reading,
+<p>So... me. I play TF2 competitively, listen to tons of music, love reading,
 enjoy starting projects as I get ideas and never finishing them, doi.
-I&#8217;m graduating from IIT (as long as I survive number theory) and I&#8217;ve been
-working at Backstop Solutions for about a year now. It&#8217;s been a great place
-to learn and work. Whenever I&#8217;m in class I&#8217;m wishing I was at work instead.</p>
+I'm graduating from IIT (as long as I survive number theory) and I've been
+working at Backstop Solutions for about a year now. It's been a great place
+to learn and work. Whenever I'm in class I'm wishing I was at work instead.</p>
 
 <p>I love Python, survive Java, tolerate Ruby, and try Clojure. Git is best
 VCS and vim is best editor. My environment is Linux and my terminal is
@@ -39,10 +39,10 @@ mess but I always wish I was in vim.</p>
 <p>I want to improve my linuxfu, functional programming, and my TF2 prowess
 (I wanna be Plat, mmmk). I keep messing with IRC bots and markov chains
 and love dreaming up ideas. I have a resume in a repo (currently
-not current, hah). I sometimes try my hand at art and it seems I&#8217;m ok at
+not current, hah). I sometimes try my hand at art and it seems I'm ok at
 pixel art.</p>
 
-<p>I&#8217;m not pro, but I&#8217;ll get there some day.</p>
+<p>I'm not pro, but I'll get there some day.</p>
 ]]></content>
   </entry>
   
